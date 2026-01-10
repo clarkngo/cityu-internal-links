@@ -1,35 +1,23 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import { BrowserRouter as Router, HashRouter, Routes, Route, Link } from 'react-router-dom';
+import Dashboard from './components/Dashboard';
+import './App.css';
 
 function App() {
-  const [count, setCount] = useState(0)
+  // Use HashRouter for GitHub Pages compatibility
+  // If deploying to subdirectory, switch to BrowserRouter with proper base path in vite.config.js
+  const RouterComponent = HashRouter;
 
   return (
-    <>
-      <div>
-        <a href="https://vite.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
-    </>
-  )
+    <RouterComponent>
+      <Routes>
+        {/* Main dashboard - shows all links */}
+        <Route path="/" element={<Dashboard />} />
+        
+        {/* Workflow-specific dashboards - shows only links for that workflow */}
+        <Route path="/workflow/:workflowName" element={<Dashboard />} />
+      </Routes>
+    </RouterComponent>
+  );
 }
 
-export default App
+export default App;

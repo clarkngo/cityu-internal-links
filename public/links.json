@@ -1,0 +1,399 @@
+[
+  {
+    "id": 1,
+    "title": "CityU STC Student Resource Center",
+    "url": "https://cityuseattle.github.io/",
+    "description": "This site collects common questions, step-by-step guides, and troubleshooting tips to help students set up and maintain their development environments. ",
+    "tags": [
+      "student"
+    ],
+    "workflows": [
+      "Student Support",
+      "Scott"
+    ],
+    "isFavorite": true,
+    "status": "active"
+  },
+  {
+    "id": 2,
+    "title": "Course Catalog 2025-2026",
+    "url": "https://cityu.smartcatalogiq.com/2025-2026/2025-2026-catalog/",
+    "description": "Complete course listings and curriculum information",
+    "tags": [
+      "curriculum",
+      "course"
+    ],
+    "workflows": [
+      "Sam"
+    ],
+    "isFavorite": true,
+    "status": "active",
+    "updatedAt": 1768016026704
+  },
+  {
+    "id": 6,
+    "title": "CS547 Secure Systems and Programs",
+    "url": "https://cityuseattle-my.sharepoint.com/personal/chungsam_cityu_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fchungsam%5Fcityu%5Fedu%2FDocuments%2FTA%20Administration%2F02%20Course%20Development%2F02%20Graduate%2F02%20MSCS%2FCS547%20Secure%20Systems%20and%20Programs%20%28Winter%202026%29&viewid=2aae17e0%2Dea1a%2D40f1%2Db06f%2D229c80aad934&view=0",
+    "description": "Main Directory",
+    "tags": [
+      "course",
+      "OneDrive",
+      "cs547"
+    ],
+    "workflows": [
+      "Content Development",
+      "Brian",
+      "Student Support",
+      "Winter 2026 Course Support"
+    ],
+    "isFavorite": true,
+    "status": "active"
+  },
+  {
+    "id": 7,
+    "title": "Class Roster 2025-2026",
+    "url": "https://cityuseattle-my.sharepoint.com/shared?id=%2Fsites%2FSTCTAWeeklyMeeting%2FShared%20Documents%2FGeneral%2FSW%20Administration%2F01%20Administration%2FClass%20Roster%20%2D%201263%20Winter&listurl=https%3A%2F%2Fcityuseattle%2Esharepoint%2Ecom%2Fsites%2FSTCTAWeeklyMeeting%2FShared%20Documents",
+    "description": "",
+    "tags": [],
+    "workflows": [
+      "Scott",
+      "Student Support",
+      "Admin",
+      "Brian"
+    ],
+    "isFavorite": true,
+    "status": "active"
+  },
+  {
+    "id": 8,
+    "title": "Journal of Multidisciplinary Research and Practice Submission",
+    "url": "https://app.scholasticahq.com/submissions/jmrap/new",
+    "description": "an open-access, peer-reviewed journal that publishes original research\nand best practices in the fields of education, business, health sciences, and computer science.",
+    "tags": [
+      "research",
+      "JMRAP"
+    ],
+    "workflows": [],
+    "isFavorite": false,
+    "status": "active"
+  },
+  {
+    "id": 9,
+    "title": "Journal of Multidisciplinary Research and Practice",
+    "url": "https://jmrap.scholasticahq.com/",
+    "description": "The JMRAP is a peer-reviewed open-access journal focused on research and best practices in Education, Business, Health, and Computer Science",
+    "tags": [
+      "research",
+      "JMRAP"
+    ],
+    "workflows": [],
+    "isFavorite": false,
+    "status": "active"
+  },
+  {
+    "id": 10,
+    "title": "GitHub Classroom",
+    "url": "https://classroom.github.com/classrooms",
+    "description": "",
+    "tags": [
+      "uncategorized",
+      "github classroom"
+    ],
+    "workflows": [
+      "HOS Review",
+      "Student Support"
+    ],
+    "isFavorite": true,
+    "status": "active",
+    "updatedAt": 1768014784485
+  },
+  {
+    "id": 11,
+    "title": "CS547  HOS",
+    "url": "https://cityuseattle-my.sharepoint.com/personal/chungsam_cityu_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fchungsam%5Fcityu%5Fedu%2FDocuments%2FTA%20Administration%2F02%20Course%20Development%2F02%20Graduate%2F02%20MSCS%2FCS547%20Secure%20Systems%20and%20Programs%20%28Winter%202026%29%2F02%20Course%20Content%2F05%20Hands%2Don%20Skill%2FHOS%20A&viewid=2aae17e0%2Dea1a%2D40f1%2Db06f%2D229c80aad934&view=0",
+    "description": "",
+    "tags": [
+      "cs547",
+      "OneDrive"
+    ],
+    "workflows": [
+      "Student Support",
+      "Winter 2026 Course Support"
+    ],
+    "isFavorite": true,
+    "status": "active"
+  },
+  {
+    "id": 12,
+    "title": "CS506 HOS",
+    "url": "https://cityuseattle-my.sharepoint.com/personal/chungsam_cityu_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fchungsam%5Fcityu%5Fedu%2FDocuments%2FTA%20Administration%2F02%20Course%20Development%2F02%20Graduate%2F02%20MSCS%2FCS506%20Programming%20for%20Computing%20%28Spring%202025%29%2F02%2D1%20Course%20Content%2F04%20Hands%2DOn%20Skill%2FHOSA&viewid=2aae17e0%2Dea1a%2D40f1%2Db06f%2D229c80aad934&view=0",
+    "description": "",
+    "tags": [
+      "cs506",
+      "OneDrive"
+    ],
+    "workflows": [
+      "Winter 2026 Course Support"
+    ],
+    "isFavorite": false,
+    "status": "active"
+  },
+  {
+    "id": 13,
+    "title": "DS515 Data Science Overview",
+    "url": "https://cityuseattle-my.sharepoint.com/personal/chungsam_cityu_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fchungsam%5Fcityu%5Fedu%2FDocuments%2FTA%20Administration%2F02%20Course%20Development%2F02%20Graduate%2F04%20MSDS%2FDS%20515%20Data%20Science%20Overview%20%281233%29&view=0",
+    "description": "",
+    "tags": [
+      "OneDrive",
+      "ds515"
+    ],
+    "workflows": [
+      "Winter 2026 Course Support"
+    ],
+    "isFavorite": false,
+    "status": "active"
+  },
+  {
+    "id": 14,
+    "title": "CS547 GH Classroom",
+    "url": "https://classroom.github.com/classrooms/53064240-cs547",
+    "description": "",
+    "tags": [
+      "cs547",
+      "github classroom"
+    ],
+    "workflows": [
+      "Winter 2026 Course Support"
+    ],
+    "isFavorite": false,
+    "status": "active",
+    "updatedAt": 1768014726759
+  },
+  {
+    "id": 15,
+    "title": "DS483 GH Classroom",
+    "url": "https://classroom.github.com/classrooms/53064240-ds483",
+    "description": "",
+    "tags": [
+      "github classroom",
+      "ds483"
+    ],
+    "workflows": [
+      "Winter 2026 Course Support"
+    ],
+    "isFavorite": false,
+    "status": "active",
+    "createdAt": 1768014883924,
+    "updatedAt": 1768014883924
+  },
+  {
+    "id": 16,
+    "title": "DS515 GH Classroom",
+    "url": "https://classroom.github.com/classrooms/53064240-ds515",
+    "description": "",
+    "tags": [
+      "github classroom"
+    ],
+    "workflows": [
+      "Winter 2026 Course Support"
+    ],
+    "isFavorite": false,
+    "status": "active",
+    "createdAt": 1768014914895,
+    "updatedAt": 1768014914895
+  },
+  {
+    "id": 17,
+    "title": "Loop - STC",
+    "url": "https://loop.cloud.microsoft/p/eyJ3Ijp7InUiOiJodHRwczovL2NpdHl1c2VhdHRsZS5zaGFyZXBvaW50LmNvbS8%2FbmF2PWN6MGxNa1ltWkQxaUlWcFBZVGQxZWxVd1gxVmxjWFEwWHpZdE5UVlBOMkkwVjNGWFFsaEpRakZQYVhCTFVWVmpRM1JETldSNk5HTjVaSEl0ZDB4VWNITldWM0J0Ym10R1EwNG1aajB3TVZGQ1JFZEdXa0ZSVlRaRE4xaFBURFZSV2tKS1MxQkpOMWsxU2pKTk5VMU1KbU05Sm1ac2RXbGtQVEUlM0QiLCJyIjpmYWxzZX0sInAiOnsidSI6Imh0dHBzOi8vY2l0eXVzZWF0dGxlLnNoYXJlcG9pbnQuY29tLzpmbDovci9jb250ZW50c3RvcmFnZS9DU1BfYmJiYmU2NjQtMzQzNS00N2ZkLWFhYjctOGZmYWZiOWU0ZWVkL0RvY3VtZW50JTIwTGlicmFyeS9Mb29wQXBwRGF0YS9VbnRpdGxlZC5sb29wP2Q9dzk4MjU3NmVjZmRiYzQ1ZTk4NmRiMDc1MmJhNDc1ZjU1JmNzZj0xJndlYj0xJm5hdj1jejBsTWtaamIyNTBaVzUwYzNSdmNtRm5aU1V5UmtOVFVGOWlZbUppWlRZMk5DMHpORE0xTFRRM1ptUXRZV0ZpTnkwNFptWmhabUk1WlRSbFpXUW1aRDFpSVZwUFlUZDFlbFV3WDFWbGNYUTBYell0TlRWUE4ySTBWM0ZYUWxoSlFqRlBhWEJMVVZWalEzUkROV1I2TkdONVpISXRkMHhVY0hOV1YzQnRibXRHUTA0bVpqMHdNVkZDUkVkR1draE5UMWxUV2xKUVNEVTFSa05aVGxkWlNFdExOVVZQV0RKV0ptTTlKVEpHSm1ac2RXbGtQVEVtWVQxTWIyOXdRWEJ3Sm5BOUpUUXdabXgxYVdSNEpUSkdiRzl2Y0Mxd1lXZGxMV052Ym5SaGFXNWxjaVo0UFNVM1FpVXlNbmNsTWpJbE0wRWxNakpVTUZKVVZVaDRhbUZZVWpWa1dFNXNXVmhTTUdKSFZYVmpNbWhvWTIxV2QySXliSFZrUXpWcVlqSXhPRmxwUm1GVU1rVXpaRmh3VmsxR09WWmFXRVl3VGtZNE1reFVWVEZVZW1ScFRrWmtlRll3U2xsVFZVbDRWREpzZDFNeFJsWlpNRTR3VVhwV2EyVnFVbXBsVjFKNVRGaGtUVlpJUW5wV2JHUjNZbGMxY2xKclRrOW1SRUY0VlZWS1JWSXdXbUZSVmtaV1RtdE5NMWRGT1UxT1ZrWmhVV3R3VEZWRmF6TlhWRlpMVFdzd01WUlZkeVV6UkNVeU1pVXlReVV5TW1rbE1qSWxNMEVsTWpJek1URmhaR05pTVMwek5XTmxMVFF6TVdNdFltVXdaUzFtT0RneE16WTVNVFUzT0RJbE1qSWxOMFElM0QiLCJyIjpmYWxzZX0sImkiOnsiaSI6IjMxMWFkY2IxLTM1Y2UtNDMxYy1iZTBlLWY4ODEzNjkxNTc4MiJ9fQ%3D%3D",
+    "description": "",
+    "tags": [
+      "task"
+    ],
+    "workflows": [
+      "Scott"
+    ],
+    "isFavorite": false,
+    "status": "active",
+    "createdAt": 1768014969008,
+    "updatedAt": 1768014997525
+  },
+  {
+    "id": 18,
+    "title": "CS440 GH Classroom",
+    "url": "https://classroom.github.com/classrooms/53064240-cs440",
+    "description": "",
+    "tags": [
+      "github classroom",
+      "cs440"
+    ],
+    "workflows": [
+      "Winter 2026 Course Support"
+    ],
+    "isFavorite": false,
+    "status": "active",
+    "createdAt": 1768015030364,
+    "updatedAt": 1768015030364
+  },
+  {
+    "id": 19,
+    "title": "DIT630 TT OneDrive",
+    "url": "https://cityuseattle-my.sharepoint.com/shared?id=%2Fpersonal%2Fchungsam%5Fcityu%5Fedu%2FDocuments%2FTA%20Administration%2F02%20Course%20Development%2F03%20DIT%2FDIT%20630%20Data%2DDriven%20Decisions%20%281253%29%2F02%20Course%20Content%2F05%20Technology%20Tool&listurl=%2Fpersonal%2Fchungsam%5Fcityu%5Fedu%2FDocuments",
+    "description": "",
+    "tags": [
+      "OneDrive",
+      "dit630",
+      "HOS/TT: OneDrive"
+    ],
+    "workflows": [
+      "Winter 2026 Course Support"
+    ],
+    "isFavorite": false,
+    "status": "active",
+    "createdAt": 1768015511994,
+    "updatedAt": 1768015524226
+  },
+  {
+    "id": 20,
+    "title": "CS440 HOS OneDrive",
+    "url": "https://cityuseattle-my.sharepoint.com/personal/chungsam_cityu_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fchungsam%5Fcityu%5Fedu%2FDocuments%2FTA%20Administration%2F02%20Course%20Development%2F01%20Undergraduate%2F01%20BSACS%2FCS440%20Software%20Quality%20Assurance%20%28Spring%202025%29%2F02%20Course%20Content%2F04%20Hands%20on%20Skills%2FHOS%20A%2FHOS01&view=0",
+    "description": "",
+    "tags": [
+      "HOS/TT: OneDrive",
+      "OneDrive",
+      "cs440"
+    ],
+    "workflows": [
+      "Winter 2026 Course Support"
+    ],
+    "isFavorite": false,
+    "status": "active",
+    "createdAt": 1768015666077,
+    "updatedAt": 1768015767102
+  },
+  {
+    "id": 21,
+    "title": "DS479 HOS OneDrive",
+    "url": "https://cityuseattle-my.sharepoint.com/personal/chungsam_cityu_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fchungsam%5Fcityu%5Fedu%2FDocuments%2FTA%20Administration%2F02%20Course%20Development%2F01%20Undergraduate%2F03%20BSDS%2FDS%20479%20Data%20Mining%20and%20Machine%20Learning%2F02%20Course%20Content%2F04%20Hands%2DOn%20Skill%2FHOS%20A&view=0",
+    "description": "",
+    "tags": [
+      "ds479",
+      "HOS/TT: OneDrive",
+      "OneDrive"
+    ],
+    "workflows": [
+      "Winter 2026 Course Support"
+    ],
+    "isFavorite": false,
+    "status": "active",
+    "createdAt": 1768015740573,
+    "updatedAt": 1768015771064
+  },
+  {
+    "id": 22,
+    "title": "CS547 HOS OneDrive",
+    "url": "https://cityuseattle-my.sharepoint.com/personal/chungsam_cityu_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fchungsam%5Fcityu%5Fedu%2FDocuments%2FTA%20Administration%2F02%20Course%20Development%2F02%20Graduate%2F02%20MSCS%2FCS547%20Secure%20Systems%20and%20Programs%20%28Winter%202026%29%2F02%20Course%20Content%2F05%20Hands%2Don%20Skill%2FHOS%20A&viewid=2aae17e0%2Dea1a%2D40f1%2Db06f%2D229c80aad934&view=0",
+    "description": "",
+    "tags": [
+      "cs547",
+      "HOS/TT: OneDrive",
+      "OneDrive"
+    ],
+    "workflows": [
+      "Winter 2026 Course Support"
+    ],
+    "isFavorite": false,
+    "status": "active",
+    "createdAt": 1768015760953,
+    "updatedAt": 1768015760953
+  },
+  {
+    "id": 23,
+    "title": "CS11B HOS OneDrive",
+    "url": "https://cityuseattle-my.sharepoint.com/personal/chungsam_cityu_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fchungsam%5Fcityu%5Fedu%2FDocuments%2FTA%20Administration%2F02%20Course%20Development%2F02%20Graduate%2F00%20MS%20Prep%2FCS11B%20T%26C%20Components%20II%2F02%20Course%20Content%2F04%20HOS%2FHOSA&viewid=2aae17e0%2Dea1a%2D40f1%2Db06f%2D229c80aad934&view=0",
+    "description": "",
+    "tags": [
+      "cs11b",
+      "OneDrive",
+      "HOS/TT: OneDrive"
+    ],
+    "workflows": [
+      "Winter 2026 Course Support"
+    ],
+    "isFavorite": false,
+    "status": "active",
+    "createdAt": 1768015800015,
+    "updatedAt": 1768015800015
+  },
+  {
+    "id": 24,
+    "title": "DS515 HOS OneDrive",
+    "url": "https://cityuseattle-my.sharepoint.com/personal/chungsam_cityu_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fchungsam%5Fcityu%5Fedu%2FDocuments%2FTA%20Administration%2F02%20Course%20Development%2F02%20Graduate%2F04%20MSDS%2FDS%20515%20Data%20Science%20Overview%20%281233%29%2F02%20Course%20Content%2F05%20Hands%2DOn%20Skill%2FHOSA&viewid=2aae17e0%2Dea1a%2D40f1%2Db06f%2D229c80aad934&view=0",
+    "description": "",
+    "tags": [
+      "HOS/TT: OneDrive",
+      "ds515",
+      "OneDrive"
+    ],
+    "workflows": [
+      "Winter 2026 Course Support"
+    ],
+    "isFavorite": false,
+    "status": "active",
+    "createdAt": 1768015832115,
+    "updatedAt": 1768015832115
+  },
+  {
+    "id": 25,
+    "title": "DS483 HOS OneDrive",
+    "url": "https://cityuseattle-my.sharepoint.com/personal/chungsam_cityu_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fchungsam%5Fcityu%5Fedu%2FDocuments%2FTA%20Administration%2F02%20Course%20Development%2F01%20Undergraduate%2F03%20BSDS%2FDS%20483%20Mathematics%20for%20Machine%20Learning%2F02%20Course%20Contents%2F04%20Hands%2DOn%20Skill%2F01%20PartA&view=0",
+    "description": "",
+    "tags": [
+      "HOS/TT: OneDrive",
+      "ds483",
+      "OneDrive"
+    ],
+    "workflows": [
+      "Winter 2026 Course Support"
+    ],
+    "isFavorite": false,
+    "status": "active",
+    "createdAt": 1768015913544,
+    "updatedAt": 1768015913544
+  },
+  {
+    "id": 26,
+    "title": "CS506 HOS OneDrive",
+    "url": "https://cityuseattle-my.sharepoint.com/personal/chungsam_cityu_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fchungsam%5Fcityu%5Fedu%2FDocuments%2FTA%20Administration%2F02%20Course%20Development%2F02%20Graduate%2F02%20MSCS%2FCS506%20Programming%20for%20Computing%20%28Spring%202025%29%2F02%2D1%20Course%20Content%2F04%20Hands%2DOn%20Skill%2FHOSA&viewid=2aae17e0%2Dea1a%2D40f1%2Db06f%2D229c80aad934&view=0",
+    "description": "",
+    "tags": [
+      "cs506",
+      "HOS/TT: OneDrive",
+      "OneDrive"
+    ],
+    "workflows": [
+      "Winter 2026 Course Support"
+    ],
+    "isFavorite": false,
+    "status": "active",
+    "createdAt": 1768015987730,
+    "updatedAt": 1768015987730
+  },
+  {
+    "id": 27,
+    "title": "Course Development - Sam & Clark Winter 2026",
+    "url": "https://cityuseattle.sharepoint.com/teams/SCH-STC/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FSCH%2DSTC%2FShared%20Documents%2FGeneral%2F01%20STC%20Office%2F01%20Administration%2F01%20Meeting%2F02%20STC%20PD%20%26%20PM%20Meeting%2F03%20Content%20Leadership%2F02%20Content%20%2D%20PMs%2F05%20Course%20Development%20%2D%20Sam%20%26%20Clark%2F1263%20Winter%202026",
+    "description": "",
+    "tags": [
+      "research"
+    ],
+    "workflows": [
+      "Content Development",
+      "Sam"
+    ],
+    "isFavorite": true,
+    "status": "active",
+    "createdAt": 1768016315141,
+    "updatedAt": 1768016315141
+  }
+]
