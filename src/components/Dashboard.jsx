@@ -50,7 +50,8 @@ export default function Dashboard() {
   useEffect(() => {
     const loadLinks = async () => {
       try {
-        const response = await fetch('/links.json');
+        const basePath = import.meta.env.BASE_URL || '/';
+        const response = await fetch(basePath + 'links.json');
         let data = await response.json();
         
         // Backward compatibility: convert workflow (string) to workflows (array)
@@ -64,17 +65,17 @@ export default function Dashboard() {
         setLinks(data);
         
         // Load tags from tags.json
-        const tagsResponse = await fetch('/tags.json');
+        const tagsResponse = await fetch(basePath + 'tags.json');
         const tagsData = await tagsResponse.json();
         setAllTags(tagsData || []);
         
         // Load workflows from workflows.json
-        const workflowsResponse = await fetch('/workflows.json');
+        const workflowsResponse = await fetch(basePath + 'workflows.json');
         const workflowsData = await workflowsResponse.json();
         setAllWorkflows(workflowsData || []);
         
         // Load recently deleted links
-        const deletedResponse = await fetch('/recently-deleted.json');
+        const deletedResponse = await fetch(basePath + 'recently-deleted.json');
         const deletedData = await deletedResponse.json();
         setRecentlyDeleted(deletedData || []);
       } catch (error) {
