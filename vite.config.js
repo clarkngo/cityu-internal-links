@@ -130,7 +130,7 @@ const customLinksMiddleware = {
 };
 
 export default defineConfig({
-  base: '/', // Change to '/cityu-internal-links/' for GitHub Pages subdirectory deployment
+  base: '/cityu-internal-links/', // GitHub Pages subdirectory deployment
   plugins: [react(), svgr(), customLinksMiddleware],
   build: {
     outDir: 'dist',
