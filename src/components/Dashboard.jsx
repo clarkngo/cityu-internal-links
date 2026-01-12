@@ -12,7 +12,7 @@ export default function Dashboard() {
   const [filteredLinks, setFilteredLinks] = useState([]);
   const [selectedTags, setSelectedTags] = useState([]);
   const [selectedStatus, setSelectedStatus] = useState(null); // 'active', 'broken', or null
-  const [sortBy, setSortBy] = useState('title');
+  const [sortBy, setSortBy] = useState('recentlyAdded');
   const [searchTerm, setSearchTerm] = useState('');
   const [showOnlyFavorites, setShowOnlyFavorites] = useState(false);
   const [showOnlyBroken, setShowOnlyBroken] = useState(false);
@@ -392,7 +392,8 @@ export default function Dashboard() {
   // Save links to links.json via API
   const saveLinks = async (updatedLinks) => {
     try {
-      const response = await fetch('/api/save-links', {
+      const basePath = import.meta.env.BASE_URL || '/';
+      const response = await fetch(basePath + 'api/save-links', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(updatedLinks),
@@ -408,7 +409,8 @@ export default function Dashboard() {
 
   const saveDeletedLinks = async (deletedLinks) => {
     try {
-      const response = await fetch('/api/save-deleted-links', {
+      const basePath = import.meta.env.BASE_URL || '/';
+      const response = await fetch(basePath + 'api/save-deleted-links', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(deletedLinks),
@@ -424,7 +426,8 @@ export default function Dashboard() {
 
   const saveTags = async (updatedTags) => {
     try {
-      const response = await fetch('/api/save-tags', {
+      const basePath = import.meta.env.BASE_URL || '/';
+      const response = await fetch(basePath + 'api/save-tags', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(updatedTags),
@@ -440,7 +443,8 @@ export default function Dashboard() {
 
   const saveWorkflows = async (updatedWorkflows) => {
     try {
-      const response = await fetch('/api/save-workflows', {
+      const basePath = import.meta.env.BASE_URL || '/';
+      const response = await fetch(basePath + 'api/save-workflows', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(updatedWorkflows),

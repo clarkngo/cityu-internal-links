@@ -395,5 +395,55 @@
     "status": "active",
     "createdAt": 1768016315141,
     "updatedAt": 1768016315141
+  },
+  {
+    "id": 28,
+    "title": "DS 479 GH Classroom",
+    "url": "https://classroom.github.com/classrooms/53064240-ds479",
+    "description": "",
+    "tags": [
+      "github classroom",
+      "ds479"
+    ],
+    "workflows": [
+      "Winter 2026 Course Support"
+    ],
+    "isFavorite": false,
+    "status": "active",
+    "createdAt": 1768253697443,
+    "updatedAt": 1768253697443
+  },
+  {
+    "id": 29,
+    "title": "Class Support - Clark - Winter 2026",
+    "url": "https://cityuseattle-my.sharepoint.com/:x:/r/personal/ngoclarkjason_cityuniversity_edu/_layouts/15/Doc.aspx?sourcedoc=%7BA816344F-0896-4789-97F6-AAF52B6C5A19%7D&file=Class%20Support%20-%20Clark%20-%20Winter%202026.xlsx&action=default&mobileredirect=true",
+    "description": "",
+    "tags": [
+      "uncategorized"
+    ],
+    "workflows": [
+      "Clark",
+      "Winter 2026 Course Support"
+    ],
+    "isFavorite": false,
+    "status": "active",
+    "createdAt": 1768253735725,
+    "updatedAt": 1768253735725
+  },
+  {
+    "id": 30,
+    "title": "MS Teams Link",
+    "url": "https://cityuseattle.sharepoint.com/:x:/r/teams/SCH-STC/_layouts/15/Doc.aspx?sourcedoc=%7B25B2E565-EF63-4D1E-90D4-0ABB7F7F8CC0%7D&file=MS%20Teams%20Links.xlsx&nav=MTVfezA1Q0U0MUY5LUU4NTMtNDBBRC1BOEJDLUE4MzUxMkExRUFGRX0&action=default&mobileredirect=true",
+    "description": "",
+    "tags": [
+      "OneDrive"
+    ],
+    "workflows": [
+      "Winter 2026 Course Support"
+    ],
+    "isFavorite": false,
+    "status": "active",
+    "createdAt": 1768253804291,
+    "updatedAt": 1768253804291
   }
 ]
