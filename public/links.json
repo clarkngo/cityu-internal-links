@@ -385,7 +385,8 @@
     "url": "https://cityuseattle.sharepoint.com/teams/SCH-STC/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FSCH%2DSTC%2FShared%20Documents%2FGeneral%2F01%20STC%20Office%2F01%20Administration%2F01%20Meeting%2F02%20STC%20PD%20%26%20PM%20Meeting%2F03%20Content%20Leadership%2F02%20Content%20%2D%20PMs%2F05%20Course%20Development%20%2D%20Sam%20%26%20Clark%2F1263%20Winter%202026",
     "description": "",
     "tags": [
-      "research"
+      "research",
+      "directory"
     ],
     "workflows": [
       "Content Development",
@@ -394,7 +395,7 @@
     "isFavorite": true,
     "status": "active",
     "createdAt": 1768016315141,
-    "updatedAt": 1768016315141
+    "updatedAt": 1768288182302
   },
   {
     "id": 28,
@@ -445,5 +446,38 @@
     "status": "active",
     "createdAt": 1768253804291,
     "updatedAt": 1768253804291
+  },
+  {
+    "id": 31,
+    "title": "STC QOR Winter 2026",
+    "url": "https://cityuseattle-my.sharepoint.com/personal/chungsam_cityu_edu/_layouts/15/onedrive.aspx?e=5%3Af3776d25778c466fbbbe1d5ad34c9292&sharingv2=true&fromShare=true&at=9&CID=4538c2a6%2D4534%2D4db7%2Db142%2D9f5587e9453d&id=%2Fpersonal%2Fchungsam%5Fcityu%5Fedu%2FDocuments%2F01%20STC%2F01%20Administration%2F00%20QOR%2FAY%202025%2D2026%2F03%20QOR%20for%20Fall%202025%2F02%20Content&FolderCTID=0x012000644854329FB4A9418AC97A26867B6A6B&view=0",
+    "description": "",
+    "tags": [
+      "uncategorized"
+    ],
+    "workflows": [
+      "Sam"
+    ],
+    "isFavorite": false,
+    "status": "active",
+    "createdAt": 1768291137218,
+    "updatedAt": 1768291137218
+  },
+  {
+    "id": 32,
+    "title": "SW Clark Ngo",
+    "url": "https://cityuseattle.sharepoint.com/:w:/r/sites/STCTAWeeklyMeeting/_layouts/15/Doc.aspx?sourcedoc=%7BE3FCA2EA-8986-4F59-ABB9-041532780D42%7D&file=SW%20Clark%20Ngo.docx&action=default&mobileredirect=true",
+    "description": "",
+    "tags": [
+      "uncategorized"
+    ],
+    "workflows": [
+      "Clark",
+      "Brian"
+    ],
+    "isFavorite": false,
+    "status": "active",
+    "createdAt": 1768326171821,
+    "updatedAt": 1768326183430
   }
 ]
