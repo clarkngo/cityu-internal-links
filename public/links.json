@@ -497,5 +497,40 @@
     "status": "active",
     "createdAt": 1768371103956,
     "updatedAt": 1768371103956
+  },
+  {
+    "id": 34,
+    "title": "1263 Clark and Sam Meeting Minutes",
+    "url": "https://cityuseattle.sharepoint.com/:w:/r/teams/SCH-STC/_layouts/15/Doc.aspx?sourcedoc=%7BCFB55C81-C8D0-4291-A6EE-078AB0E8BB27%7D&file=1263%20Clark%20and%20Sam%20Meeting%20Minutes.docx&action=default&mobileredirect=true",
+    "description": "",
+    "tags": [
+      "uncategorized"
+    ],
+    "workflows": [
+      "Content Development",
+      "Sam",
+      "Clark"
+    ],
+    "isFavorite": false,
+    "status": "active",
+    "createdAt": 1768429773525,
+    "updatedAt": 1768429797253
+  },
+  {
+    "id": 35,
+    "title": "CISSE 2025 - Clark & Sam",
+    "url": "https://cityuseattle-my.sharepoint.com/personal/chungsam_cityu_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fchungsam%5Fcityu%5Fedu%2FDocuments%2F01%20STC%2F03%20Research%2F04%20STC%20Research%20Groups%20Meeting%2F01%20SSC%20%2D%20Sam%2FAY%202025%2D2026%2F01%20Summer%2F00%20Sam%20Chung%2FCISSE%202025%20%2D%20Clark%20and%20Sam&view=0",
+    "description": "",
+    "tags": [
+      "research"
+    ],
+    "workflows": [
+      "Sam",
+      "Clark"
+    ],
+    "isFavorite": false,
+    "status": "active",
+    "createdAt": 1768430407611,
+    "updatedAt": 1768430407611
   }
 ]
