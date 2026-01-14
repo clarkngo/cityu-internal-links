@@ -532,5 +532,22 @@
     "status": "active",
     "createdAt": 1768430407611,
     "updatedAt": 1768430407611
+  },
+  {
+    "id": 36,
+    "title": "Clark CityU Journal",
+    "url": "https://cityuseattle-my.sharepoint.com/personal/chungsam_cityu_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fchungsam%5Fcityu%5Fedu%2FDocuments%2F01%20STC%2F03%20Research%2F04%20STC%20Research%20Groups%20Meeting%2F01%20SSC%20%2D%20Sam%2FAY%202025%2D2026%2F03%20Winter%2F01%20Clark%20Ngo%2FCityU%20Journal&viewid=2aae17e0%2Dea1a%2D40f1%2Db06f%2D229c80aad934&view=0",
+    "description": "",
+    "tags": [
+      "research"
+    ],
+    "workflows": [
+      "Clark",
+      "Sam"
+    ],
+    "isFavorite": false,
+    "status": "active",
+    "createdAt": 1768431958474,
+    "updatedAt": 1768431958474
   }
 ]
