@@ -549,5 +549,37 @@
     "status": "active",
     "createdAt": 1768431958474,
     "updatedAt": 1768431958474
+  },
+  {
+    "id": 37,
+    "title": "2026-01-20 BSAI - Program Description",
+    "url": "https://cityuseattle-my.sharepoint.com/:w:/r/personal/chungsam_cityu_edu/_layouts/15/Doc.aspx?sourcedoc=%7B0717BC2F-046C-417B-ABEE-0739060CD705%7D&file=2024-10-31%20BSDS%20-%20Program%20Description%20-%20No%20Tracking.docx&action=default&mobileredirect=true",
+    "description": "",
+    "tags": [
+      "bsai"
+    ],
+    "workflows": [
+      "Sam"
+    ],
+    "isFavorite": false,
+    "status": "active",
+    "createdAt": 1768443080795,
+    "updatedAt": 1768443080795
+  },
+  {
+    "id": 38,
+    "title": "AI Course Development",
+    "url": "https://cityuseattle-my.sharepoint.com/personal/chungsam_cityu_edu/_layouts/15/onedrive.aspx?csf=1&web=1&e=m86STm&CID=44c61741%2D7057%2D4d2f%2Dae82%2D8acd6751ead7&id=%2Fpersonal%2Fchungsam%5Fcityu%5Fedu%2FDocuments%2F01%20STC%2F03%20Research%2F04%20STC%20Research%20Groups%20Meeting%2F01%20SSC%20%2D%20Sam%2FAY%202025%2D2026%2F01%20Summer%2FClark%20Ngo%2FCourse%20Development&FolderCTID=0x012000644854329FB4A9418AC97A26867B6A6B&view=0",
+    "description": "",
+    "tags": [
+      "bsai"
+    ],
+    "workflows": [
+      "Sam"
+    ],
+    "isFavorite": false,
+    "status": "active",
+    "createdAt": 1768443128744,
+    "updatedAt": 1768443128744
   }
 ]
