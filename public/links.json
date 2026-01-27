@@ -511,7 +511,7 @@
       "Sam",
       "Clark"
     ],
-    "isFavorite": false,
+    "isFavorite": true,
     "status": "active",
     "createdAt": 1768429773525,
     "updatedAt": 1768429797253
@@ -561,7 +561,7 @@
     "workflows": [
       "Sam"
     ],
-    "isFavorite": false,
+    "isFavorite": true,
     "status": "active",
     "createdAt": 1768443080795,
     "updatedAt": 1768443080795
@@ -577,9 +577,26 @@
     "workflows": [
       "Sam"
     ],
-    "isFavorite": false,
+    "isFavorite": true,
     "status": "active",
     "createdAt": 1768443128744,
     "updatedAt": 1768443128744
+  },
+  {
+    "id": 39,
+    "title": "BSAI AAC Meeting",
+    "url": "https://cityuseattle-my.sharepoint.com/personal/chungsam_cityu_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fchungsam%5Fcityu%5Fedu%2FDocuments%2F01%20STC%2F04%20Service%2F01%20Advisement%2F01%20STC%20AAC%20Approval%2FAY%202025%2D2026%2F2026%2D02%2D10%20AAC%20Meeting%2FUndergraduate%2FBSAI&view=0",
+    "description": "",
+    "tags": [
+      "bsai"
+    ],
+    "workflows": [
+      "Curriculum",
+      "Sam"
+    ],
+    "isFavorite": true,
+    "status": "active",
+    "createdAt": 1769542094147,
+    "updatedAt": 1769542094147
   }
 ]
