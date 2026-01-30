@@ -598,5 +598,22 @@
     "status": "active",
     "createdAt": 1769542094147,
     "updatedAt": 1769542094147
+  },
+  {
+    "id": 40,
+    "title": "Clark STC AI Infusion Notes",
+    "url": "https://cityuseattle-my.sharepoint.com/personal/ngoclarkjason_cityuniversity_edu/_layouts/15/doc.aspx?sourcedoc={a1199a0c-ad35-4f1e-b0ec-dbddc289de26}&action=edit",
+    "description": "",
+    "tags": [
+      "uncategorized"
+    ],
+    "workflows": [
+      "Clark",
+      "Sam"
+    ],
+    "isFavorite": true,
+    "status": "active",
+    "createdAt": 1769756903461,
+    "updatedAt": 1769756903461
   }
 ]
