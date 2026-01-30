@@ -605,7 +605,7 @@
     "url": "https://cityuseattle-my.sharepoint.com/personal/ngoclarkjason_cityuniversity_edu/_layouts/15/doc.aspx?sourcedoc={a1199a0c-ad35-4f1e-b0ec-dbddc289de26}&action=edit",
     "description": "",
     "tags": [
-      "uncategorized"
+      "bsai"
     ],
     "workflows": [
       "Clark",
@@ -614,6 +614,23 @@
     "isFavorite": true,
     "status": "active",
     "createdAt": 1769756903461,
-    "updatedAt": 1769756903461
+    "updatedAt": 1769804606400
+  },
+  {
+    "id": 41,
+    "title": "Clark Notes on XP Cyber Range",
+    "url": "https://cityuseattle-my.sharepoint.com/personal/ngoclarkjason_cityuniversity_edu/_layouts/15/doc.aspx?sourcedoc={3048869d-b764-445e-a404-8a8948889cfb}&action=edit",
+    "description": "",
+    "tags": [
+      "uncategorized"
+    ],
+    "workflows": [
+      "Clark",
+      "Michael"
+    ],
+    "isFavorite": true,
+    "status": "active",
+    "createdAt": 1769804555517,
+    "updatedAt": 1769804578533
   }
 ]
