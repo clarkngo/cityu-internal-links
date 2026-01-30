@@ -632,5 +632,21 @@
     "status": "active",
     "createdAt": 1769804555517,
     "updatedAt": 1769804578533
+  },
+  {
+    "id": 42,
+    "title": "Clark SSCRG Winter 2026",
+    "url": "https://cityuseattle-my.sharepoint.com/personal/chungsam_cityu_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fchungsam%5Fcityu%5Fedu%2FDocuments%2F01%20STC%2F03%20Research%2F04%20STC%20Research%20Groups%20Meeting%2F01%20SSC%20%2D%20Sam%2FAY%202025%2D2026%2F03%20Winter%2F01%20Clark%20Ngo&viewid=2aae17e0%2Dea1a%2D40f1%2Db06f%2D229c80aad934&csf=1&CID=44c61741%2D7057%2D4d2f%2Dae82%2D8acd6751ead7&FolderCTID=0x012000644854329FB4A9418AC97A26867B6A6B&view=0",
+    "description": "",
+    "tags": [
+      "research"
+    ],
+    "workflows": [
+      "Clark"
+    ],
+    "isFavorite": true,
+    "status": "active",
+    "createdAt": 1769809814025,
+    "updatedAt": 1769809814025
   }
 ]
