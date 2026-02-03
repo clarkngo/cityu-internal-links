@@ -605,7 +605,7 @@
     "url": "https://cityuseattle-my.sharepoint.com/personal/ngoclarkjason_cityuniversity_edu/_layouts/15/doc.aspx?sourcedoc={a1199a0c-ad35-4f1e-b0ec-dbddc289de26}&action=edit",
     "description": "",
     "tags": [
-      "uncategorized"
+      "bsai"
     ],
     "workflows": [
       "Clark",
@@ -614,6 +614,70 @@
     "isFavorite": true,
     "status": "active",
     "createdAt": 1769756903461,
-    "updatedAt": 1769756903461
+    "updatedAt": 1769804606400
+  },
+  {
+    "id": 41,
+    "title": "Clark Notes on XP Cyber Range",
+    "url": "https://cityuseattle-my.sharepoint.com/personal/ngoclarkjason_cityuniversity_edu/_layouts/15/doc.aspx?sourcedoc={3048869d-b764-445e-a404-8a8948889cfb}&action=edit",
+    "description": "",
+    "tags": [
+      "uncategorized"
+    ],
+    "workflows": [
+      "Clark",
+      "Michael"
+    ],
+    "isFavorite": true,
+    "status": "active",
+    "createdAt": 1769804555517,
+    "updatedAt": 1769804578533
+  },
+  {
+    "id": 42,
+    "title": "Clark SSCRG Winter 2026",
+    "url": "https://cityuseattle-my.sharepoint.com/personal/chungsam_cityu_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fchungsam%5Fcityu%5Fedu%2FDocuments%2F01%20STC%2F03%20Research%2F04%20STC%20Research%20Groups%20Meeting%2F01%20SSC%20%2D%20Sam%2FAY%202025%2D2026%2F03%20Winter%2F01%20Clark%20Ngo&viewid=2aae17e0%2Dea1a%2D40f1%2Db06f%2D229c80aad934&csf=1&CID=44c61741%2D7057%2D4d2f%2Dae82%2D8acd6751ead7&FolderCTID=0x012000644854329FB4A9418AC97A26867B6A6B&view=0",
+    "description": "",
+    "tags": [
+      "research"
+    ],
+    "workflows": [
+      "Clark"
+    ],
+    "isFavorite": true,
+    "status": "active",
+    "createdAt": 1769809814025,
+    "updatedAt": 1769809814025
+  },
+  {
+    "id": 43,
+    "title": "IS 471 Virtual Labs",
+    "url": "https://cityuseattle-my.sharepoint.com/personal/chungsam_cityu_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fchungsam%5Fcityu%5Fedu%2FDocuments%2FTA%20Administration%2F02%20Course%20Development%2F01%20Undergraduate%2F00C%20BS%20Core%2FIS471%20Cyber%20Ethics%20%28Spring%202025%29%2F02%20Course%20Content%2F04%20Virtual%20Lab&view=0",
+    "description": "",
+    "tags": [
+      "OneDrive"
+    ],
+    "workflows": [],
+    "isFavorite": false,
+    "status": "active",
+    "createdAt": 1769844726162,
+    "updatedAt": 1769844726162
+  },
+  {
+    "id": 44,
+    "title": "Clark Workload Tracker Winter 2026",
+    "url": "https://cityuseattle-my.sharepoint.com/:x:/r/personal/ngoclarkjason_cityuniversity_edu/_layouts/15/Doc.aspx?sourcedoc=%7B861C43BC-2E90-43A7-8291-8E6333A2332D%7D&file=Clark%20Workload%20Tracker%20Winter%202026.xlsx&action=default&mobileredirect=true",
+    "description": "",
+    "tags": [
+      "uncategorized"
+    ],
+    "workflows": [
+      "Brian",
+      "Scott"
+    ],
+    "isFavorite": false,
+    "status": "active",
+    "createdAt": 1770141812756,
+    "updatedAt": 1770141812756
   }
 ]
