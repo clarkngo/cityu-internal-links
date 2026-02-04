@@ -594,7 +594,7 @@
       "Curriculum",
       "Sam"
     ],
-    "isFavorite": true,
+    "isFavorite": false,
     "status": "active",
     "createdAt": 1769542094147,
     "updatedAt": 1769542094147
@@ -675,9 +675,60 @@
       "Brian",
       "Scott"
     ],
-    "isFavorite": false,
+    "isFavorite": true,
     "status": "active",
     "createdAt": 1770141812756,
     "updatedAt": 1770141812756
+  },
+  {
+    "id": 45,
+    "title": "HOS Submission Status 1263 Winter",
+    "url": "https://cityuseattle.sharepoint.com/sites/STCTAWeeklyMeeting/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FSTCTAWeeklyMeeting%2FShared%20Documents%2FGeneral%2FSW%20Administration%2F01%20Administration%2FHOS%20Submission%20Status%201263%20Winter&viewid=357a0b2d%2D886a%2D4e84%2Dbc6d%2D72e111e520bf&csf=1&CID=034e042d%2Dcdc8%2Dbdcb%2D5b5d%2D9686a620e91c&WSL=1&FolderCTID=0x01200023F454CB87C8374E8A442CC6BAB133A9&ovuser=b3fa96d9%2Df515%2D4662%2Dadd7%2D63d854e39e63%2Cngoclarkjason%40cityuniversity%2Eedu&OR=Teams%2DHL&CT=1770179813856&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI1MC8yNjAxMDQwMDkyNSIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D",
+    "description": "",
+    "tags": [
+      "OneDrive"
+    ],
+    "workflows": [
+      "Winter 2026 Course Support",
+      "Brian"
+    ],
+    "isFavorite": true,
+    "status": "active",
+    "createdAt": 1770179902047,
+    "updatedAt": 1770179902047
+  },
+  {
+    "id": 46,
+    "title": "Cloud Based AI Empowered Software Development",
+    "url": "https://cityuseattle-my.sharepoint.com/personal/chungsam_cityu_edu/_layouts/15/onedrive.aspx?csf=1&web=1&e=5YP0O1&CID=57104d00%2De80e%2D4c3a%2Db0eb%2D4517f8e425a4&id=%2Fpersonal%2Fchungsam%5Fcityu%5Fedu%2FDocuments%2F01%20STC%2F04%20Service%2F01%20Advisement%2F01%20STC%20AAC%20Approval%2FAY%202025%2D2026%2F2026%2D02%2D10%20Cloud%2DBased%20AI%2DEmpowered%20Software%20Development&FolderCTID=0x012000644854329FB4A9418AC97A26867B6A6B&view=0",
+    "description": "",
+    "tags": [
+      "uncategorized"
+    ],
+    "workflows": [
+      "Sam",
+      "Clark"
+    ],
+    "isFavorite": true,
+    "status": "active",
+    "createdAt": 1770179971995,
+    "updatedAt": 1770179971995
+  },
+  {
+    "id": 47,
+    "title": "AI Engineering",
+    "url": "https://cityuseattle-my.sharepoint.com/personal/chungsam_cityu_edu/_layouts/15/onedrive.aspx?csf=1&web=1&e=gYh7Cz&CID=5edc36d2%2D0c87%2D44f9%2Dbddc%2D60c278ae593c&id=%2Fpersonal%2Fchungsam%5Fcityu%5Fedu%2FDocuments%2F01%20STC%2F04%20Service%2F01%20Advisement%2F01%20STC%20AAC%20Approval%2FAY%202025%2D2026%2F2026%2D03%2D10%20AI%20Engineering&FolderCTID=0x012000644854329FB4A9418AC97A26867B6A6B&view=0",
+    "description": "",
+    "tags": [
+      "uncategorized"
+    ],
+    "workflows": [
+      "Sam",
+      "Clark"
+    ],
+    "isFavorite": true,
+    "status": "active",
+    "createdAt": 1770179994044,
+    "updatedAt": 1770179994044
   }
 ]
