@@ -730,5 +730,21 @@
     "status": "active",
     "createdAt": 1770179994044,
     "updatedAt": 1770179994044
+  },
+  {
+    "id": 48,
+    "title": "CS 445 HOS",
+    "url": "https://cityuseattle-my.sharepoint.com/personal/chungsam_cityu_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fchungsam%5Fcityu%5Fedu%2FDocuments%2FTA%20Administration%2F02%20Course%20Development%2F01%20Undergraduate%2F01%20BSACS%2FCS445%20Software%20Process%20Management%20%28Spring%202025%29%2F02%20Course%20Content%2F04%20Hands%2Don%20Skill%2FHOS%20A&viewid=2aae17e0%2Dea1a%2D40f1%2Db06f%2D229c80aad934&view=0",
+    "description": "",
+    "tags": [
+      "OneDrive"
+    ],
+    "workflows": [
+      "Scott"
+    ],
+    "isFavorite": false,
+    "status": "active",
+    "createdAt": 1770744095351,
+    "updatedAt": 1770744095351
   }
 ]
