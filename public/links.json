@@ -746,5 +746,21 @@
     "status": "active",
     "createdAt": 1770744095351,
     "updatedAt": 1770744095351
+  },
+  {
+    "id": 49,
+    "title": "2024_KU_Alignment_Summary_table_",
+    "url": "https://cityuseattle-my.sharepoint.com/:x:/g/personal/chungsam_cityu_edu/IQDeIrsJ8VTzRZEe7BU91_jmATut51ASGjjcq0XN_P8KeSY?wdOrigin=TEAMS-MAGLEV.p2p_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1771366177045&web=1",
+    "description": "",
+    "tags": [
+      "uncategorized"
+    ],
+    "workflows": [
+      "Morgan"
+    ],
+    "isFavorite": false,
+    "status": "active",
+    "createdAt": 1771366952385,
+    "updatedAt": 1771366952385
   }
 ]
