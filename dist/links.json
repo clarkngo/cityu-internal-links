@@ -762,5 +762,172 @@
     "status": "active",
     "createdAt": 1771366952385,
     "updatedAt": 1771366952385
+  },
+  {
+    "id": 50,
+    "title": "CS 445 Software Process Management",
+    "url": "https://cityuseattle-my.sharepoint.com/shared?id=%2Fpersonal%2Fchungsam%5Fcityu%5Fedu%2FDocuments%2FTA%20Administration%2F02%20Course%20Development%2F01%20Undergraduate%2F01%20BSACS%2FCS445%20Software%20Process%20Management%20%28Spring%202025%29&listurl=%2Fpersonal%2Fchungsam%5Fcityu%5Fedu%2FDocuments",
+    "description": "",
+    "tags": [
+      "OneDrive"
+    ],
+    "workflows": [],
+    "isFavorite": false,
+    "status": "active",
+    "createdAt": 1771618541643,
+    "updatedAt": 1771618541643
+  },
+  {
+    "id": 51,
+    "title": "DIT 637 Technology Tools",
+    "url": "https://cityuseattle-my.sharepoint.com/personal/chungsam_cityu_edu/_layouts/15/onedrive.aspx?e=5%3Aa390d63f7fd1476fb2c05e20ffba336b&sharingv2=true&fromShare=true&at=9&CID=8422585b%2D0474%2D4f0b%2D83d4%2D38a5318d2c44&id=%2Fpersonal%2Fchungsam%5Fcityu%5Fedu%2FDocuments%2FTA%20Administration%2F02%20Course%20Development%2F03%20DIT%2FDIT%20637%20Smart%20and%20Secure%20Systems%2F02%20Course%20Content%2F05%20Technology%20Tool&FolderCTID=0x012000644854329FB4A9418AC97A26867B6A6B&view=0",
+    "description": "DIT 637 Smart and Secure Systems",
+    "tags": [
+      "HOS/TT: OneDrive",
+      "DIT TT Assessment"
+    ],
+    "workflows": [
+      "Brian",
+      "DIT TT Asssessment"
+    ],
+    "isFavorite": false,
+    "status": "active",
+    "createdAt": 1772480468855,
+    "updatedAt": 1772481015003
+  },
+  {
+    "id": 52,
+    "title": "DIT Meeting on Technology Tools",
+    "url": "https://cityuseattle.sharepoint.com/:w:/r/teams/SCH-STC/Shared%20Documents/General/01%20STC%20Office/01%20Administration/01%20Meeting/02%20STC%20PD%20%26%20PM%20Meeting/01%20Academic%20Leadership/02%20Academic-PDs/01%20STC%20Doctoral/Resources-DIT/DIT%20Meeting%20on%20Technology%20Tools.docx?d=w26adad75657f4a8aade0269f0f6ba498&e=4%3a42d8de5fcfaa404488de1e9686c3b74d&sharingv2=true&fromShare=true&at=9&xsdata=MDV8MDJ8bmdvY2xhcmtqYXNvbkBjaXR5dW5pdmVyc2l0eS5lZHV8Y2QyNjM2MzQ0MjcyNDE3YWUzZjEwOGRlNzRhOWQ0ODl8YjNmYTk2ZDlmNTE1NDY2MmFkZDc2M2Q4NTRlMzllNjN8MHwwfDYzOTA3NjQ2OTkyODU0MzQ1NHxVbmtub3dufFRXRnBiR1pzYjNkOGV5SkZiWEIwZVUxaGNHa2lPblJ5ZFdVc0lsWWlPaUl3TGpBdU1EQXdNQ0lzSWxBaU9pSlhhVzR6TWlJc0lrRk9Jam9pVFdGcGJDSXNJbGRVSWpveWZRPT18MHx8fA%3d%3d&sdata=eWpLRWhkNlEwRjVYMDFZM05xbnpYWTEzZ0RkcmRMeHlFRlZoSE1ucTdZQT0%3d",
+    "description": "",
+    "tags": [
+      "uncategorized"
+    ],
+    "workflows": [
+      "DIT TT Asssessment"
+    ],
+    "isFavorite": false,
+    "status": "active",
+    "createdAt": 1772480594904,
+    "updatedAt": 1772480594904
+  },
+  {
+    "id": 53,
+    "title": "DIT 635 Technology Tools",
+    "url": "https://cityuseattle-my.sharepoint.com/personal/chungsam_cityu_edu/_layouts/15/onedrive.aspx?e=5%3A195e8ff752ce4589addf0a67294987fc&sharingv2=true&fromShare=true&at=9&CID=627a8b4e%2D85de%2D49f9%2Db4a4%2D4caeb5e61f31&id=%2Fpersonal%2Fchungsam%5Fcityu%5Fedu%2FDocuments%2FTA%20Administration%2F02%20Course%20Development%2F03%20DIT%2FDIT%20635%20Data%20and%20Business%20Analytics%20%281254%29%2F02%20Course%20Content%2F05%20Technology%20Tool&FolderCTID=0x012000644854329FB4A9418AC97A26867B6A6B&view=0",
+    "description": "DIT 635 Data and Business Analytics",
+    "tags": [
+      "HOS/TT: OneDrive"
+    ],
+    "workflows": [
+      "Brian",
+      "DIT TT Asssessment"
+    ],
+    "isFavorite": false,
+    "status": "active",
+    "createdAt": 1772480622770,
+    "updatedAt": 1772481002321
+  },
+  {
+    "id": 54,
+    "title": "DIT 630 Technology Tools",
+    "url": "https://cityuseattle-my.sharepoint.com/personal/chungsam_cityu_edu/_layouts/15/onedrive.aspx?e=5%3Aecb253f590584835be2628787c98d5a4&sharingv2=true&fromShare=true&at=9&CID=737d2e51%2Dd576%2D4c16%2D96f2%2Df5e1e9132926&id=%2Fpersonal%2Fchungsam%5Fcityu%5Fedu%2FDocuments%2FTA%20Administration%2F02%20Course%20Development%2F03%20DIT%2FDIT%20630%20Data%2DDriven%20Decisions%20%281253%29&FolderCTID=0x012000644854329FB4A9418AC97A26867B6A6B&view=0",
+    "description": "DIT 630 Data Drive Decisions",
+    "tags": [
+      "HOS/TT: OneDrive"
+    ],
+    "workflows": [
+      "DIT TT Asssessment",
+      "Brian"
+    ],
+    "isFavorite": false,
+    "status": "active",
+    "createdAt": 1772480657387,
+    "updatedAt": 1772480974520
+  },
+  {
+    "id": 55,
+    "title": "DIT 625 Technology Tools",
+    "url": "https://cityuseattle-my.sharepoint.com/personal/chungsam_cityu_edu/_layouts/15/onedrive.aspx?e=5%3Ae45e9a2eadbd4386a347d6760c63e6ce&sharingv2=true&fromShare=true&at=9&CID=6e86f08e%2D5d67%2D4425%2D8518%2D86522aa72f1a&id=%2Fpersonal%2Fchungsam%5Fcityu%5Fedu%2FDocuments%2FTA%20Administration%2F02%20Course%20Development%2F03%20DIT%2FDIT%20625%20Cybersecurity%20and%20Information%20Assurance%20%281254%29%2F02%20Course%20Content%2F05%20Technology%20Tool&FolderCTID=0x012000644854329FB4A9418AC97A26867B6A6B&view=0",
+    "description": "DIT 625 Cybersecurity and Information Assurance",
+    "tags": [
+      "HOS/TT: OneDrive"
+    ],
+    "workflows": [
+      "Brian",
+      "DIT TT Asssessment"
+    ],
+    "isFavorite": false,
+    "status": "active",
+    "createdAt": 1772480685787,
+    "updatedAt": 1772480840154
+  },
+  {
+    "id": 56,
+    "title": "DIT 620 Techonology Tools",
+    "url": "https://cityuseattle-my.sharepoint.com/personal/chungsam_cityu_edu/_layouts/15/onedrive.aspx?e=5%3Ad62799e858264e239e3ee34d00e46c8f&sharingv2=true&fromShare=true&at=9&CID=12ac19aa%2D702e%2D4227%2Daa2d%2De3f201be8fe7&id=%2Fpersonal%2Fchungsam%5Fcityu%5Fedu%2FDocuments%2FTA%20Administration%2F02%20Course%20Development%2F03%20DIT%2FDIT%20620%20IT%20Innovation%20in%20Complex%20and%20Global%20Environment%20%281231%29%2F02%20Course%20Content%2F05%20Technology%20Tool&FolderCTID=0x012000644854329FB4A9418AC97A26867B6A6B&view=0",
+    "description": "DIT 620 IT Innovation in Complex and Global Environment",
+    "tags": [
+      "HOS/TT: OneDrive"
+    ],
+    "workflows": [
+      "Brian",
+      "DIT TT Asssessment"
+    ],
+    "isFavorite": false,
+    "status": "active",
+    "createdAt": 1772480718920,
+    "updatedAt": 1772480818852
+  },
+  {
+    "id": 57,
+    "title": "DIT 615 Technology Tools",
+    "url": "https://cityuseattle-my.sharepoint.com/personal/chungsam_cityu_edu/_layouts/15/onedrive.aspx?e=5%3A6c578b1cbb1043399b0988430814fbe2&sharingv2=true&fromShare=true&at=9&CID=77df9434%2D5e6f%2D44ed%2D90eb%2D9a6be56a1d76&id=%2Fpersonal%2Fchungsam%5Fcityu%5Fedu%2FDocuments%2FTA%20Administration%2F02%20Course%20Development%2F03%20DIT%2FDIT%20615%20Planning%20and%20Managing%20IT%20Projects%20%281253%29%2F02%20Course%20Content%2F05%20Technology%20Tool&FolderCTID=0x012000644854329FB4A9418AC97A26867B6A6B&view=0",
+    "description": "DIT 615 Planning and Managing IT Projects",
+    "tags": [
+      "HOS/TT: OneDrive"
+    ],
+    "workflows": [
+      "DIT TT Asssessment",
+      "Brian"
+    ],
+    "isFavorite": false,
+    "status": "active",
+    "createdAt": 1772480787920,
+    "updatedAt": 1772480787920
+  },
+  {
+    "id": 58,
+    "title": "DIT 605 Technology Tools",
+    "url": "https://cityuseattle-my.sharepoint.com/personal/chungsam_cityu_edu/_layouts/15/onedrive.aspx?e=5%3A986682b85f0746d2a64f906442193cdb&sharingv2=true&fromShare=true&at=9&CID=1cfd4648%2Dda0a%2D4aaa%2Da5d0%2Dbc2287dd3959&id=%2Fpersonal%2Fchungsam%5Fcityu%5Fedu%2FDocuments%2FTA%20Administration%2F02%20Course%20Development%2F03%20DIT%2FDIT%20605%20Information%20Technology%20Strategic%20Management%20%281232%29%2F02%20Course%20Content%2F05%20Technology%20Tool&FolderCTID=0x012000644854329FB4A9418AC97A26867B6A6B&view=0",
+    "description": "DIT 605 Information Technology Strategic Management",
+    "tags": [
+      "HOS/TT: OneDrive"
+    ],
+    "workflows": [
+      "Brian",
+      "DIT TT Asssessment"
+    ],
+    "isFavorite": false,
+    "status": "active",
+    "createdAt": 1772480907071,
+    "updatedAt": 1772480907071
+  },
+  {
+    "id": 59,
+    "title": "DIT 610 Technology Tools",
+    "url": "https://cityuseattle-my.sharepoint.com/personal/chungsam_cityu_edu/_layouts/15/onedrive.aspx?e=5%3Aa42716a0bde74a01ba680d45f749608c&sharingv2=true&fromShare=true&at=9&CID=d9062dc8%2D5948%2D45e0%2Da05f%2D46e6fa1eab44&id=%2Fpersonal%2Fchungsam%5Fcityu%5Fedu%2FDocuments%2FTA%20Administration%2F02%20Course%20Development%2F03%20DIT%2FDIT%20610%20IT%20Policy%20and%20Governance%20%281232%29%2F02%20Course%20Content%2F05%20Technology%20Tool%20%2D%20MS%20Power%20Platforms&FolderCTID=0x012000644854329FB4A9418AC97A26867B6A6B&view=0",
+    "description": "DIT 610 IT Policy and Governance",
+    "tags": [
+      "HOS/TT: OneDrive"
+    ],
+    "workflows": [
+      "Brian",
+      "DIT TT Asssessment"
+    ],
+    "isFavorite": false,
+    "status": "active",
+    "createdAt": 1772480957403,
+    "updatedAt": 1772480957403
   }
 ]
