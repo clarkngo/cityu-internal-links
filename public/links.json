@@ -929,5 +929,19 @@
     "status": "active",
     "createdAt": 1772480957403,
     "updatedAt": 1772480957403
+  },
+  {
+    "id": 60,
+    "title": "CS 628 Full Stack Development - Web App",
+    "url": "https://cityuseattle-my.sharepoint.com/personal/chungsam_cityu_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fchungsam%5Fcityu%5Fedu%2FDocuments%2FTA%20Administration%2F02%20Course%20Development%2F02%20Graduate%2F02%20MSCS%2FCS628%20Full%2DStack%20Development%20%2D%20Web%20App%20%28Winter%202025%29&view=0",
+    "description": "",
+    "tags": [
+      "OneDrive"
+    ],
+    "workflows": [],
+    "isFavorite": false,
+    "status": "active",
+    "createdAt": 1773261055954,
+    "updatedAt": 1773261055954
   }
 ]
