@@ -957,5 +957,19 @@
     "status": "active",
     "createdAt": 1773333233423,
     "updatedAt": 1773333233423
+  },
+  {
+    "id": 62,
+    "title": "CY 510 HOS OneDrive",
+    "url": "https://cityuseattle-my.sharepoint.com/personal/chungsam_cityu_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fchungsam%5Fcityu%5Fedu%2FDocuments%2FTA%20Administration%2F02%20Course%20Development%2F02%20Graduate%2F03%20MSCY%2FCY%20510%20Human%20and%20Organization%20Security%20%28Cris%20Ewell%20SME%204%20Spring%2D%202024%29%2F02%20Course%20Content%2F04%20Hands%2Don%20Skills%20%28HOS%29%2FHOSA&view=0",
+    "description": "Human and Organization Security",
+    "tags": [
+      "uncategorized"
+    ],
+    "workflows": [],
+    "isFavorite": false,
+    "status": "active",
+    "createdAt": 1774462129150,
+    "updatedAt": 1774462129150
   }
 ]
