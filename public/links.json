@@ -971,5 +971,61 @@
     "status": "active",
     "createdAt": 1774462129150,
     "updatedAt": 1774462129150
+  },
+  {
+    "id": 63,
+    "title": "CS 504 Hands-on Skills",
+    "url": "https://cityuseattle-my.sharepoint.com/personal/chungsam_cityu_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fchungsam%5Fcityu%5Fedu%2FDocuments%2FTA%20Administration%2F02%20Course%20Development%2F02%20Graduate%2F02%20MSCS%2FCS504%20Software%20Engineering%20%28Spring%202027%29%2F02%20Course%20Content%2F05%20Hands%2Don%20Skill&view=0",
+    "description": "",
+    "tags": [
+      "OneDrive"
+    ],
+    "workflows": [],
+    "isFavorite": false,
+    "status": "active",
+    "createdAt": 1775251317355,
+    "updatedAt": 1775251317355
+  },
+  {
+    "id": 64,
+    "title": "Clark Course Support - Spring 2026",
+    "url": "https://cityuseattle-my.sharepoint.com/:x:/r/personal/ngoclarkjason_cityuniversity_edu/_layouts/15/Doc.aspx?sourcedoc=%7B3B748D62-1CE6-4A1A-982A-C4B394E443A9%7D&file=Clark%20Course%20Support%20-%20Spring%202026.xlsx&action=default&mobileredirect=true&DefaultItemOpen=1",
+    "description": "DIT 600, 625, 635\nBrian, Cris Ewell, Leon",
+    "tags": [
+      "uncategorized"
+    ],
+    "workflows": [],
+    "isFavorite": true,
+    "status": "active",
+    "createdAt": 1775253939784,
+    "updatedAt": 1775253939784
+  },
+  {
+    "id": 65,
+    "title": "Class Roster - 1264 Spring (2026)",
+    "url": "https://cityuseattle.sharepoint.com/sites/STCTAWeeklyMeeting/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FSTCTAWeeklyMeeting%2FShared%20Documents%2FGeneral%2FSW%20Administration%2F01%20Administration%2FClass%20Roster%20%2D%201264%20Spring&viewid=357a0b2d%2D886a%2D4e84%2Dbc6d%2D72e111e520bf&csf=1&CID=517f8915%2D4882%2D4076%2D927d%2Def539c95f302&FolderCTID=0x01200023F454CB87C8374E8A442CC6BAB133A9&OR=Teams%2DHL&CT=1775248976611&ovuser=b3fa96d9%2Df515%2D4662%2Dadd7%2D63d854e39e63%2Cngoclarkjason%40cityuniversity%2Eedu&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI1MC8yNjAyMjcwNDIxNSJ9",
+    "description": "",
+    "tags": [
+      "uncategorized"
+    ],
+    "workflows": [],
+    "isFavorite": true,
+    "status": "active",
+    "createdAt": 1775254068884,
+    "updatedAt": 1775254068884
+  },
+  {
+    "id": 66,
+    "title": "DIT 635 GitHub Classroom",
+    "url": "https://classroom.github.com/classrooms/53064240-dit635",
+    "description": "",
+    "tags": [
+      "uncategorized"
+    ],
+    "workflows": [],
+    "isFavorite": true,
+    "status": "active",
+    "createdAt": 1775254443718,
+    "updatedAt": 1775254443718
   }
 ]
